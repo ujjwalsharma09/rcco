@@ -1,0 +1,23 @@
+body{
+	background-color: lightgoldenrodyellow;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	font-family: ALGERIAN;
+	background-color: lightgrey;
+	color: darkslateblue;
+}
+p{
+	display: inline-block;
+	color: darkorchid;
+	font-size: 20px;
+	float: center;
+}
+img{
+	height: 300px;
+	/*float: center;*/
+	text-align: center;
+/*	margin: 50px;
+	padding: 30px;*/
+}
